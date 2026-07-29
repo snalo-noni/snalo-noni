@@ -1,16 +1,14 @@
-## Hi there 👋
+<h1 align="center">Hi 👋 I'm Snalo Noni</h1>
 
-<!--
-**snalo-noni/snalo-noni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  .giphy.com/media/v1.Y2lkPTc5MGI3NjExeHVlcnhxeTR5MDlxeTBxNnlpeGptN2ZmaWhic3gxb25kazhlazJiaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oIlCJbFy87WVHXs6kY/giphy.gif" width="400">
+</p>
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🎓 CAPACITI Candidate
+- 💻 Aspiring Software Developer
+- ⚽ Cristiano Ronaldo Fan
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=snalo-noni&show_icons=true&theme=tokII! 🐐
 -->
