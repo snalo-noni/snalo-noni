@@ -40,6 +40,8 @@ Repository: [snalo-noni/soluon-website-](https://github.com/snalo-noni/soluon-we
 
 ## 3. Stand-up Recap Evidence
 
+The team held stand-ups on Monday, Wednesday and Friday for updates and communication.
+
 <p align="left">
   <a href="../assets/logbooks/read-ai-stand-up-recap-26-oct-2026.png"><img src="../assets/logbooks/read-ai-stand-up-recap-26-oct-2026.png" alt="Read AI recap of the Soluon virtual stand-up held on 26 October 2026" width="480"></a>
 </p>
@@ -48,3 +50,12 @@ Repository: [snalo-noni/soluon-website-](https://github.com/snalo-noni/soluon-we
 
 **Evidence shown:** The recap lists the participants' status updates and the other points discussed, including hackathon feedback and the weekly schedule and branch migration. It is a dated record that the team met for a stand-up after the 9 to 16 October sprint.
 
+## 4. Weekly Record
+
+<p align="left">
+  <a href="../assets/logbooks/weekly-record-oct-2026.png"><img src="../assets/logbooks/weekly-record-oct-2026.png" alt="Weekly record for the 2nd and 3rd weeks of October 2026" width="480"></a>
+</p>
+
+<p align="left"><sub><strong>Figure 3.</strong> My weekly record (OPS_FRM_Snalo_Noni_SN) for the 2nd and 3rd weeks of October 2026. Select the image to view it at full size.</sub></p>
+
+**Evidence shown:** For the 2nd week of October, the record shows work on the Soluon website alongside my school project and a presentation, with limited time because the website had to be fitted around those commitments. For the 3rd week, it shows work on my assigned issues and a hackathon app (notice given on Tuesday, due on Thursday, presented on Friday), the plan to continue developing the website, and stand-ups on Monday, Wednesday and Friday.

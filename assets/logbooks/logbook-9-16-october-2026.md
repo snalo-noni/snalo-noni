@@ -20,7 +20,7 @@
 | 1 | What do we need to do to advance this piece of work? | TODO |
 | 2 | Is anyone working on anything that is not on the board? | TODO |
 | 3 | What do we need to finish as a team? | TODO |
-| 4 | Are there any bottlenecks or blockers to the flow of work? | TODO |
+| 4 | Are there any bottlenecks or blockers to the flow of work? | Limited time, because the website had to be fitted around my school project and presentation preparation (2nd week of October). The hackathon app had to be built at two days' notice, alongside my assigned issues (3rd week). See the [weekly record](../05-agile-logbook/evidence.md#4-weekly-record). |
 
 ## Logbook
 
@@ -50,10 +50,10 @@
 
 ## Sprint Planning
 
-- **Date:** TODO
+- **Date:** 2 October 2026 (stand-up where the website work was assigned)
 - **Sprint goal:** Publish the Soluon company website with all core sections, a working contact form and the team section.
-- **Items committed:** TODO
-- **Notes:** TODO
+- **Items committed:** I would develop the website. Agreement Lethube would send me the information needed for the website. Team members would send her a short website profile and picture.
+- **Notes:** The final demo was set for the 16th. See the [sprint kick-off evidence](../04-sprint-backlog/evidence.md#sprint-kick-off-evidence).
 
 ## Sprint Review
 

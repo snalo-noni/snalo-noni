@@ -16,12 +16,11 @@ An Agile team charter is a living, co-created social contract that defines a tea
 
 | Name | Role | Responsibilities |
 |---|---|---|
-| Snalo Noni | Developer | Built and updated the website. See the [logbook](../05-agile-logbook/evidence.md) for the dated commits. |
-| TODO | Product Owner | TODO – for example decides what the site must show and in what order |
-| TODO | Scrum Master / Coordinator | TODO – for example runs the stand-ups and removes blockers |
-| TODO | TODO | TODO |
+| Snalo Noni | Sole designer and developer | Designed, built, tested and updated the website. See the [logbook](../05-agile-logbook/evidence.md) for the dated commits. |
+| Agreement Lethube | Personal Assistant to Shaun | Supplied the information the team wanted on the website, and received my progress updates. |
+| Shaun | TODO – your role on the project, for example client or product owner | TODO |
 
-> **TODO (delete this note):** Replace every TODO with the real names and roles. If you worked alone, say so and list the roles you covered yourself. Also confirm your own role.
+> **TODO (delete this note):** Confirm Shaun's role and whether other team members supplied profiles or content, then add them to the table.
 
 The stand-up of 2 October 2026 recorded the actions that fixed these roles, including "Snalo will develop the website" and that Agreement would send the information needed for the site. See the [sprint kick-off evidence](../04-sprint-backlog/evidence.md#sprint-kick-off-evidence).
 
@@ -38,10 +37,10 @@ The stand-up of 2 October 2026 recorded the actions that fixed these roles, incl
 
 | Area | Agreement |
 |---|---|
-| Communication channel | TODO – for example WhatsApp, Teams or Outlook, and how fast to reply |
-| Meetings | TODO – stand-up times, sprint planning, review and retrospective |
-| Workflow | TODO – for example the Trello columns To Do, In Progress, Testing, Done |
-| Version control | TODO – for example who may push to `main` and how commits are named |
+| Communication channel | A WhatsApp group for updates and communication, and direct WhatsApp messages with Agreement Lethube (see Figure 1). TODO – how fast you agreed to reply |
+| Meetings | Stand-ups on Monday, Wednesday and Friday for updates and communication, held on Google Meet. TODO – add sprint review and retrospective if you held them |
+| Workflow | No Trello board was used on this project. TODO – say how you tracked your tasks instead |
+| Version control | All work was committed to GitHub. See the commit history in the [logbook evidence](../05-agile-logbook/evidence.md). TODO – add any rule you followed, for example who may push to `main` |
 | Decision making | TODO – for example discuss first, then the Product Owner decides |
 
 ## 5. Definition of Done
@@ -60,15 +59,15 @@ A task is done when:
 
 ## 7. Supporting Evidence
 
-### 7.1 Progress Update to the Stakeholder
+### 7.1 Progress Update to Agreement Lethube
 
 <p align="left">
   <a href="../assets/agile-team-charter/whatsapp-website-update-9-oct-2026.png"><img src="../assets/agile-team-charter/whatsapp-website-update-9-oct-2026.png" alt="WhatsApp conversation of 9 October 2026 in which the website link is shared and a remaining fault is mentioned" width="480"></a>
 </p>
 
-<p align="left"><sub><strong>Figure 1.</strong> WhatsApp conversation of 9 October 2026 in which the stakeholder asks how the website is coming along and I send the link to the work-in-progress site. Select the image to view it at full size.</sub></p>
+<p align="left"><sub><strong>Figure 1.</strong> WhatsApp conversation of 9 October 2026 in which Agreement Lethube, Shaun's personal assistant, asks how the website is coming along and I send the link to the work-in-progress site. Select the image to view it at full size.</sub></p>
 
-**Evidence shown:** The messages record a progress check from the stakeholder, a link to the working website, and my note that one feature (the messenger) was still being fixed. The stakeholder asks to be kept updated.
+**Evidence shown:** The messages record a progress check from Agreement Lethube, a link to the working website, and my note that one feature (the messenger) was still being fixed. She asks me to keep updating her.
 
 > **TODO (delete this note):** Add any other evidence that the team agreed and followed its rules, such as the written charter, a team chat or a Trello board. Save each image in `assets/agile-team-charter/` and add it in the same way as Figure 1.
 

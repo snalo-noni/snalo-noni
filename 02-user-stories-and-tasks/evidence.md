@@ -6,6 +6,8 @@ A user story is a short description of a feature written from the end-user's per
 
 > **TODO (delete this note):** The stories below were drafted from the sections that exist on the finished website. Keep, reword or delete each one so the page shows what your team actually wrote. If a story was written after the work was done, say so honestly in your reflection.
 
+**Source of the requirements:** The Soluon team gave me the information they wanted on the website, and I wrote the stories below from it.
+
 **Project board:** TODO – paste your public Trello board link
 
 ## 1. Understanding Soluon
