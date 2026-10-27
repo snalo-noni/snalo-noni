@@ -65,4 +65,4 @@
 
 | Went well | Did not go well | Action for the next sprint |
 |---|---|---|
-| Everything went well on my side. The other members loved the demo. | The company did not own a domain, so I had to wait before deploying. The contact form did not send messages to the linked email reliably. | TODO |
+| Everything went well on my side. The other members loved the demo. | The company did not own a domain, so I had to wait before deploying. The contact form did not send messages to the linked email reliably. | Leave more buffer time for the contact form and deployment. |
