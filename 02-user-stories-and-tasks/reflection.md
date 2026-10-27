@@ -12,8 +12,8 @@ My job was to translate those raw team inputs into user-centric user stories and
 
 ## Action
 
-I structured the stories around user goals and broke them into frontend and integration tasks. At first I made them too broad, so I had to refine the acceptance criteria to keep each story's scope deliverable.
+I structured the stories around user goals and broke them into frontend and integration tasks. At first I made them too broad, so I had to refine the acceptance criteria to keep each story's scope deliverable. I did not use a Trello board, so I tracked the stories through the stand-ups and the GitHub commits instead.
 
 ## Result
 
-Taking the visitor's perspective forced me to focus on intuitive navigation and core utility. It showed me that defining edge cases upfront avoids rework in future sprints.
+Taking the visitor's perspective forced me to focus on intuitive navigation and core utility. It showed me that defining edge cases upfront avoids rework in future sprints. Next time I would set up a board at the start to make the work easier to see.
