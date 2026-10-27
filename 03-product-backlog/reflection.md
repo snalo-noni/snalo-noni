@@ -2,28 +2,18 @@
 
 [← Back to portfolio](../README.md)
 
-> **TODO (delete this note):** Write each part in your own words, about 40–70 words each. Use first person ("I"). The question under each heading is only a prompt, so delete it when you are done.
-
 ## Situation
 
-*What work had to be done for the website, and what made it hard to order?*
-
-TODO
+The Soluon website needed its content sections (about, the problem, the approach, what Soluon builds, who it serves and its principles), a team section and a contact form. With limited time around school projects and a hackathon, the work had to be put in a sensible order.
 
 ## Task
 
-*What was your part in building or ordering the backlog?*
-
-TODO
+My part was to order the backlog so the most important work was built first.
 
 ## Action
 
-*How did you decide what came first? Which items were added, changed or reordered (for example after the 12 October rebuild), and why?*
-
-TODO
+I put the information the team supplied and the Product Owner's needs first. On 12 October something broke on the site, and I restored the page from GitHub's history, which is why I could recover without losing the work.
 
 ## Result
 
-*What did you learn about managing scope and priorities? What would you improve in your backlog next time?*
-
-TODO
+I learned to test after each change, because an update can break a page. I also learned that delivery depends on other people, and that website work has to fit around other commitments. Next time I would write the priorities down from the start and settle the contact-form service sooner, instead of trying Vercel, FormSubmit and other services late in the sprint.

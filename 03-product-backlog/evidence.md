@@ -24,7 +24,7 @@ A product backlog is a prioritised list of all required work, features, bug fixe
 
 ## 2. How Items Were Prioritised
 
-TODO – say how you ordered the backlog, for example MoSCoW (Must, Should, Could, Won't), value against effort, or the Product Owner's judgement.
+I put the information the team supplied and the Product Owner's needs first.
 
 ## 3. Backlog Changes
 
