@@ -21,7 +21,7 @@ A user story is a short description of a feature written from the end-user's per
 
 ### 1.3 Evidence
 
-- Commit: [Add Soluon company website (00fc9d5)](https://github.com/shaun549/soluon-website-/commit/00fc9d5)
+- Commit: [Add Soluon company website (00fc9d5)](https://github.com/snalo-noni/soluon-website-/commit/00fc9d5)
 - Trello card: TODO
 - Screenshot: TODO (save in `assets/user-stories/`)
 
@@ -39,7 +39,7 @@ A user story is a short description of a feature written from the end-user's per
 
 ### 2.3 Evidence
 
-- Commit: [Add Soluon company website (00fc9d5)](https://github.com/shaun549/soluon-website-/commit/00fc9d5)
+- Commit: [Add Soluon company website (00fc9d5)](https://github.com/snalo-noni/soluon-website-/commit/00fc9d5)
 - Trello card: TODO
 - Screenshot: TODO
 
@@ -56,7 +56,7 @@ A user story is a short description of a feature written from the end-user's per
 
 ### 3.3 Evidence
 
-- Commit: [Add Soluon company website (00fc9d5)](https://github.com/shaun549/soluon-website-/commit/00fc9d5)
+- Commit: [Add Soluon company website (00fc9d5)](https://github.com/snalo-noni/soluon-website-/commit/00fc9d5)
 - Trello card: TODO
 - Screenshot: TODO
 
@@ -74,7 +74,7 @@ A user story is a short description of a feature written from the end-user's per
 
 ### 4.3 Evidence
 
-- Commit: [Add Soluon company website (00fc9d5)](https://github.com/shaun549/soluon-website-/commit/00fc9d5)
+- Commit: [Add Soluon company website (00fc9d5)](https://github.com/snalo-noni/soluon-website-/commit/00fc9d5)
 - Trello card: TODO
 - Screenshot: TODO
 
@@ -93,7 +93,7 @@ A user story is a short description of a feature written from the end-user's per
 
 ### 5.3 Evidence
 
-- Commits: [Update Emmanuel profile and form email (f5d0119)](https://github.com/shaun549/soluon-website-/commit/f5d0119), [Point to new Emmanuel photo (7da3965)](https://github.com/shaun549/soluon-website-/commit/7da3965), [Add Agreement Lethube to team section (ac126f3)](https://github.com/shaun549/soluon-website-/commit/ac126f3)
+- Commits: [Update Emmanuel profile and form email (f5d0119)](https://github.com/snalo-noni/soluon-website-/commit/f5d0119), [Point to new Emmanuel photo (7da3965)](https://github.com/snalo-noni/soluon-website-/commit/7da3965), [Add Agreement Lethube to team section (ac126f3)](https://github.com/snalo-noni/soluon-website-/commit/ac126f3)
 - Trello card: TODO
 - Screenshot: TODO
 
@@ -112,7 +112,7 @@ A user story is a short description of a feature written from the end-user's per
 
 ### 6.3 Evidence
 
-- Commits: [Send contact form to test inbox (9b8a5bf)](https://github.com/shaun549/soluon-website-/commit/9b8a5bf), [Update contact form (ce78e93)](https://github.com/shaun549/soluon-website-/commit/ce78e93), [Update Emmanuel profile and form email (f5d0119)](https://github.com/shaun549/soluon-website-/commit/f5d0119)
+- Commits: [Send contact form to test inbox (9b8a5bf)](https://github.com/snalo-noni/soluon-website-/commit/9b8a5bf), [Update contact form (ce78e93)](https://github.com/snalo-noni/soluon-website-/commit/ce78e93), [Update Emmanuel profile and form email (f5d0119)](https://github.com/snalo-noni/soluon-website-/commit/f5d0119)
 - Trello card: TODO
 - Screenshot: TODO
 
@@ -129,7 +129,7 @@ A user story is a short description of a feature written from the end-user's per
 
 ### 7.3 Evidence
 
-- Commit: [Add Soluon company website (00fc9d5)](https://github.com/shaun549/soluon-website-/commit/00fc9d5)
+- Commit: [Add Soluon company website (00fc9d5)](https://github.com/snalo-noni/soluon-website-/commit/00fc9d5)
 - Trello card: TODO
 - Screenshot: TODO – for example the site on a phone
 

@@ -47,7 +47,7 @@ The Soluon Website is a single-page company website. It presents the company's m
 
 ## Project Links
 
-- **Source Code:** [Soluon Website on GitHub](https://github.com/snalo-noni/soluon-website-) <!-- TODO: confirm this is the repository your commit links point to; the evidence pages currently use github.com/shaun549/soluon-website- -->
+- **Source Code:** [Soluon Website on GitHub](https://github.com/snalo-noni/soluon-website-) <!-- TODO: confirm this is the repository your commit links point to; the evidence pages currently use github.com/snalo-noni/soluon-website- -->
 - **Live Website:** TODO – paste the live Soluon website link, or delete this line if there is none
 - **Project Board:** TODO – paste your public Trello board link
 

@@ -12,7 +12,7 @@ An agile logbook records daily stand-ups, sprint plans and retrospective notes a
 
 ## 2. Development Log from GitHub
 
-Repository: [shaun549/soluon-website-](https://github.com/shaun549/soluon-website-)
+Repository: [snalo-noni/soluon-website-](https://github.com/snalo-noni/soluon-website-)
 
 <p align="left">
   <a href="../assets/agile-logbook/commit-history-12-16-oct-2026.png"><img src="../assets/agile-logbook/commit-history-12-16-oct-2026.png" alt="GitHub commit history for the Soluon website, 12 and 16 October 2026" width="480"></a>
@@ -22,17 +22,17 @@ Repository: [shaun549/soluon-website-](https://github.com/shaun549/soluon-websit
 
 | Date | Commit | What was done |
 |---|---|---|
-| 9 Oct 2026 | [00fc9d5](https://github.com/shaun549/soluon-website-/commit/00fc9d5) | Add Soluon company website |
-| 9 Oct 2026 | [4d902be](https://github.com/shaun549/soluon-website-/commit/4d902be) | Remove IDE folder |
-| 9 Oct 2026 | [9b8a5bf](https://github.com/shaun549/soluon-website-/commit/9b8a5bf) | Send contact form to test inbox |
-| 9 Oct 2026 | [662de83](https://github.com/shaun549/soluon-website-/commit/662de83), [ef36fbf](https://github.com/shaun549/soluon-website-/commit/ef36fbf) | Create CNAME, then delete CNAME |
-| 12 Oct 2026 | [ce78e93](https://github.com/shaun549/soluon-website-/commit/ce78e93) | Update contact form |
-| 12 Oct 2026 | [9a3c8d1](https://github.com/shaun549/soluon-website-/commit/9a3c8d1) | Rebuild pages |
-| 12 Oct 2026 | [abe64fa](https://github.com/shaun549/soluon-website-/commit/abe64fa) | Restore site page with updated form |
-| 16 Oct 2026 | [f5d0119](https://github.com/shaun549/soluon-website-/commit/f5d0119) | Update Emmanuel profile and form email |
-| 16 Oct 2026 | [59aa6bb](https://github.com/shaun549/soluon-website-/commit/59aa6bb), [fbd0547](https://github.com/shaun549/soluon-website-/commit/fbd0547), [7da3965](https://github.com/shaun549/soluon-website-/commit/7da3965) | Upload new team photo, delete the old photo, point the page to the new photo |
-| 16 Oct 2026 | [ac126f3](https://github.com/shaun549/soluon-website-/commit/ac126f3) | Add Agreement Lethube to team section |
-| 16 Oct 2026 | [f6abce4](https://github.com/shaun549/soluon-website-/commit/f6abce4) | Ignore IDE and firmware project folders |
+| 9 Oct 2026 | [00fc9d5](https://github.com/snalo-noni/soluon-website-/commit/00fc9d5) | Add Soluon company website |
+| 9 Oct 2026 | [4d902be](https://github.com/snalo-noni/soluon-website-/commit/4d902be) | Remove IDE folder |
+| 9 Oct 2026 | [9b8a5bf](https://github.com/snalo-noni/soluon-website-/commit/9b8a5bf) | Send contact form to test inbox |
+| 9 Oct 2026 | [662de83](https://github.com/snalo-noni/soluon-website-/commit/662de83), [ef36fbf](https://github.com/snalo-noni/soluon-website-/commit/ef36fbf) | Create CNAME, then delete CNAME |
+| 12 Oct 2026 | [ce78e93](https://github.com/snalo-noni/soluon-website-/commit/ce78e93) | Update contact form |
+| 12 Oct 2026 | [9a3c8d1](https://github.com/snalo-noni/soluon-website-/commit/9a3c8d1) | Rebuild pages |
+| 12 Oct 2026 | [abe64fa](https://github.com/snalo-noni/soluon-website-/commit/abe64fa) | Restore site page with updated form |
+| 16 Oct 2026 | [f5d0119](https://github.com/snalo-noni/soluon-website-/commit/f5d0119) | Update Emmanuel profile and form email |
+| 16 Oct 2026 | [59aa6bb](https://github.com/snalo-noni/soluon-website-/commit/59aa6bb), [fbd0547](https://github.com/snalo-noni/soluon-website-/commit/fbd0547), [7da3965](https://github.com/snalo-noni/soluon-website-/commit/7da3965) | Upload new team photo, delete the old photo, point the page to the new photo |
+| 16 Oct 2026 | [ac126f3](https://github.com/snalo-noni/soluon-website-/commit/ac126f3) | Add Agreement Lethube to team section |
+| 16 Oct 2026 | [f6abce4](https://github.com/snalo-noni/soluon-website-/commit/f6abce4) | Ignore IDE and firmware project folders |
 
 > **TODO (delete this note):** Add a second screenshot that shows the 9 October commits and the repository name at the top of the page.
 

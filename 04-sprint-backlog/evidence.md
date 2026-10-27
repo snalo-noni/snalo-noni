@@ -18,12 +18,12 @@ A sprint backlog is a real-time, actionable plan created by and for the develope
 
 | Backlog item | Task | Owner | Estimate | Status | Done on | Evidence |
 |---|---|---|---|---|---|---|
-| PB-01, PB-02, PB-03, PB-05, PB-07 | Build the initial site: structure, navigation, content sections and principles carousel | Snalo Noni | TODO | Done | 9 Oct | [00fc9d5](https://github.com/shaun549/soluon-website-/commit/00fc9d5) |
-| PB-04 | Send the contact form to a test inbox | Snalo Noni | TODO | Done | 9 Oct | [9b8a5bf](https://github.com/shaun549/soluon-website-/commit/9b8a5bf) |
-| PB-04 | Update the contact form | Snalo Noni | TODO | Done | 12 Oct | [ce78e93](https://github.com/shaun549/soluon-website-/commit/ce78e93) |
-| PB-08 | Rebuild the pages and restore the site page with the updated form | Snalo Noni | TODO | Done | 12 Oct | [9a3c8d1](https://github.com/shaun549/soluon-website-/commit/9a3c8d1), [abe64fa](https://github.com/shaun549/soluon-website-/commit/abe64fa) |
-| PB-06, PB-09 | Update Emmanuel's profile and photo, and update the form email | Snalo Noni | TODO | Done | 16 Oct | [f5d0119](https://github.com/shaun549/soluon-website-/commit/f5d0119), [7da3965](https://github.com/shaun549/soluon-website-/commit/7da3965) |
-| PB-06, PB-09 | Add Agreement Lethube to the team section | Snalo Noni | TODO | Done | 16 Oct | [ac126f3](https://github.com/shaun549/soluon-website-/commit/ac126f3) |
+| PB-01, PB-02, PB-03, PB-05, PB-07 | Build the initial site: structure, navigation, content sections and principles carousel | Snalo Noni | TODO | Done | 9 Oct | [00fc9d5](https://github.com/snalo-noni/soluon-website-/commit/00fc9d5) |
+| PB-04 | Send the contact form to a test inbox | Snalo Noni | TODO | Done | 9 Oct | [9b8a5bf](https://github.com/snalo-noni/soluon-website-/commit/9b8a5bf) |
+| PB-04 | Update the contact form | Snalo Noni | TODO | Done | 12 Oct | [ce78e93](https://github.com/snalo-noni/soluon-website-/commit/ce78e93) |
+| PB-08 | Rebuild the pages and restore the site page with the updated form | Snalo Noni | TODO | Done | 12 Oct | [9a3c8d1](https://github.com/snalo-noni/soluon-website-/commit/9a3c8d1), [abe64fa](https://github.com/snalo-noni/soluon-website-/commit/abe64fa) |
+| PB-06, PB-09 | Update Emmanuel's profile and photo, and update the form email | Snalo Noni | TODO | Done | 16 Oct | [f5d0119](https://github.com/snalo-noni/soluon-website-/commit/f5d0119), [7da3965](https://github.com/snalo-noni/soluon-website-/commit/7da3965) |
+| PB-06, PB-09 | Add Agreement Lethube to the team section | Snalo Noni | TODO | Done | 16 Oct | [ac126f3](https://github.com/snalo-noni/soluon-website-/commit/ac126f3) |
 | TODO | TODO – tasks done by other team members | TODO | TODO | TODO | TODO | TODO |
 
 ### Sprint Kick-off Evidence

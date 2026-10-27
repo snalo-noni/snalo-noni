@@ -29,8 +29,8 @@ TODO – say how you ordered the backlog, for example MoSCoW (Must, Should, Coul
 
 | Date | Change | Reason |
 |---|---|---|
-| 12 Oct 2026 | Pages rebuilt and the site page restored with the updated form ([9a3c8d1](https://github.com/shaun549/soluon-website-/commit/9a3c8d1), [abe64fa](https://github.com/shaun549/soluon-website-/commit/abe64fa)) | TODO – why the pages were rebuilt |
-| 16 Oct 2026 | Team profiles and photos updated ([f5d0119](https://github.com/shaun549/soluon-website-/commit/f5d0119), [ac126f3](https://github.com/shaun549/soluon-website-/commit/ac126f3)) | TODO – why the team section changed |
+| 12 Oct 2026 | Pages rebuilt and the site page restored with the updated form ([9a3c8d1](https://github.com/snalo-noni/soluon-website-/commit/9a3c8d1), [abe64fa](https://github.com/snalo-noni/soluon-website-/commit/abe64fa)) | TODO – why the pages were rebuilt |
+| 16 Oct 2026 | Team profiles and photos updated ([f5d0119](https://github.com/snalo-noni/soluon-website-/commit/f5d0119), [ac126f3](https://github.com/snalo-noni/soluon-website-/commit/ac126f3)) | TODO – why the team section changed |
 
 ## 4. Screenshot Evidence
 
