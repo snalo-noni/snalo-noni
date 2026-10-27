@@ -2,28 +2,18 @@
 
 [← Back to portfolio](../README.md)
 
-> **TODO (delete this note):** Write each part in your own words, about 40–70 words each. Use first person ("I"). The question under each heading is only a prompt, so delete it when you are done.
-
 ## Situation
 
-*What did the website need to do, and who were its users?*
-
-TODO
+The Soluon team gave me the information they wanted on the website, and it had to become something I could build from.
 
 ## Task
 
-*What was your part in writing the stories and breaking them into tasks?*
-
-TODO
+My job was to translate those raw team inputs into user-centric user stories and technical sub-tasks, to build a clear, actionable product backlog.
 
 ## Action
 
-*How did you write the stories and split them into tasks? How did you use Trello? What did you get wrong or have to re-split?*
-
-TODO
+I structured the stories around user goals and broke them into frontend and integration tasks. At first I made them too broad, so I had to refine the acceptance criteria to keep each story's scope deliverable.
 
 ## Result
 
-*How did thinking from the visitor's point of view change your work? What would you do differently next time?*
-
-TODO
+Taking the visitor's perspective forced me to focus on intuitive navigation and core utility. It showed me that defining edge cases upfront avoids rework in future sprints.
