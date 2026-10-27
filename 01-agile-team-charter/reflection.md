@@ -2,28 +2,18 @@
 
 [← Back to portfolio](../README.md)
 
-> **TODO (delete this note):** Write each part in your own words, about 40–70 words each. Use first person ("I"). Be honest about what went well and what did not. The question under each heading is only a prompt, so delete it when you are done.
-
 ## Situation
 
-*What was the project and why did the team need a charter?*
-
-TODO
+I was the only developer on the Soluon website. I worked with Shaun as Product Owner and Agreement as my contact, while also handling school projects and a hackathon.
 
 ## Task
 
-*What was your responsibility in agreeing or following the charter?*
-
-TODO
+My responsibility was to set up clear communication touchpoints and realistic delivery milestones to keep the project on schedule.
 
 ## Action
 
-*What did you actually do? Which agreements did you follow, and which were hard to keep?*
-
-TODO
+The Monday, Wednesday and Friday stand-ups were the hardest agreement to keep, because of overlapping school projects and the hackathon. I rescheduled conflicting syncs, raised blockers early and sent asynchronous status updates when a live meeting was not possible.
 
 ## Result
 
-*What changed because of the charter? What did you learn about teamwork, and what would you change next time?*
-
-TODO
+The charter and the stand-ups kept the team aligned and accountable under a high workload. Next time I would negotiate a more flexible, asynchronous stand-up schedule upfront, to manage academic peak periods better.
