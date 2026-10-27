@@ -24,7 +24,7 @@ The Soluon Website is a single-page company website. It presents the company's m
 
 <p align="left"><sub>Soluon website homepage. Select the image to view it at full size.</sub></p>
 
-## Technology Stack
+## Technology Stack Used
 
 ### Website Development
 
