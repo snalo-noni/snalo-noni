@@ -46,7 +46,7 @@ The Soluon Website is a single-page company website. It presents the company's m
 ## Project Links
 
 - **Source Code:** [Soluon Website on GitHub](https://github.com/snalo-noni/soluon-website-)
-- **Project Board:** [Soluon Website on Trello](https://trello.com/b/n2pSLMkp) (reconstructed from the GitHub commit history after the sprint)
+- **Project Board:** [Soluon Website on Trello](https://trello.com/b/n2pSLMkp) 
 
 ## Portfolio Sections
 
