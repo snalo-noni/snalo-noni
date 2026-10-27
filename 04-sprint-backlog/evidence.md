@@ -23,7 +23,7 @@ A sprint backlog is a real-time, actionable plan created by and for the develope
 | PB-06, PB-09 | Update Emmanuel's profile and photo, and update the form email | Snalo Noni | Done | 16 Oct | [f5d0119](https://github.com/snalo-noni/soluon-website-/commit/f5d0119), [7da3965](https://github.com/snalo-noni/soluon-website-/commit/7da3965) |
 | PB-06, PB-09 | Add Agreement Lethube to the team section | Snalo Noni | Done | 16 Oct | [ac126f3](https://github.com/snalo-noni/soluon-website-/commit/ac126f3) |
 | PB-04 | Try form services (Vercel, FormSubmit and others) to send visitors' messages to the linked email | Snalo Noni | Not working reliably | – | – |
-| PB-10 | Deploy the website after the demo | Snalo Noni | Planned for Monday 19 Oct | – | – |
+| PB-10 | Deploy the website after the demo | Snalo Noni | Live on Vercel; moving to the official domain is still to do | – | [Live site](https://soluon-infrastructure-resilient-liv.vercel.app/) |
 
 ### Sprint Kick-off Evidence
 
@@ -39,7 +39,7 @@ A sprint backlog is a real-time, actionable plan created by and for the develope
 
 - **Planned items:** The website, ready for the demo on 16 October.
 - **Completed:** The website was built in about three days and shown at the demo on 16 October. The other members loved it.
-- **Carried over:** Deployment, which was set for the following Monday (19 October) because the Product Owner was unavailable on the day of the demo, and reliable delivery of contact-form messages to the linked email.
+- **Carried over:** Deployment, which was set for the following Monday (19 October) because the Product Owner was unavailable on the day of the demo. The site is now live on Vercel, and moving it to the official domain is still to do. Also carried over was reliable delivery of contact-form messages to the linked email.
 
 ### Sprint Board
 

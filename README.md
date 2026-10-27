@@ -46,6 +46,7 @@ The Soluon Website is a single-page company website. It presents the company's m
 ## Project Links
 
 - **Source Code:** [Soluon Website on GitHub](https://github.com/snalo-noni/soluon-website-)
+- **Live Website:** [Soluon Website on Vercel](https://soluon-infrastructure-resilient-liv.vercel.app/) (hosted on Vercel until the official domain is ready)
 - **Project Board:** [Soluon Website on Trello](https://trello.com/b/n2pSLMkp) 
 
 ## Portfolio Sections
