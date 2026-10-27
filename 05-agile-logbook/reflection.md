@@ -2,28 +2,18 @@
 
 [← Back to portfolio](../README.md)
 
-> **TODO (delete this note):** Write each part in your own words, about 40–70 words each. Use first person ("I"). Be honest about gaps in the records. The question under each heading is only a prompt, so delete it when you are done.
-
 ## Situation
 
-*What period does your logbook cover and what was the team working on?*
-
-TODO
+This logbook covers the Soluon Website sprint from 9 to 16 October 2026. I was the only developer, and I was building the site alongside school projects and a hackathon, so my time was limited throughout the sprint.
 
 ## Task
 
-*What were you responsible for recording and delivering in that period?*
-
-TODO
+I was responsible for recording the sprint in the logbook: the sprint planning, my answers to the stand-up questions, the sprint review and the retrospective. With no taskboard, the logbook was how the team and I could see what had been done and what was blocking me.
 
 ## Action
 
-*What did you record each day? Which blockers or problems did you write down and how did you handle them? What patterns do you see in the commit history (for example the 12 October rebuild)?*
-
-TODO
+For 9, 12 and 16 October I recorded what I completed, what I planned next and my impediments, using my GitHub commits as the record. My main impediment each time was limited time. On 12 October I rebuilt the pages and restored the site page with the updated form, which my commit history shows.
 
 ## Result
 
-*What did the stand-ups and the retrospective change about how you worked? How has your understanding of Agile changed since the start of the project?*
-
-TODO
+The logbook and commit history gave me a dated record of the work, and the retrospective showed that the contact form and deployment needed more buffer time. I learned that Agile can work without a board if the team communicates regularly, but a board would have made progress easier to see.
