@@ -78,9 +78,7 @@ The Soluon Website is a single-page company website. It presents the company's m
 
 ## Connect: How the Sections Fit Together
 
-<!-- TODO (delete this note): write one short paragraph in your own words. Say how the charter shaped the way you worked, how the user stories became backlog items, how the sprint backlog drove the logbook entries, and what the whole process taught you. -->
-
-TODO
+The five sections follow the work in the order it happened. The charter, set at the 2 October 2026 stand-up, fixed who would do what and how we would communicate: stand-ups on Monday, Wednesday and Friday, with updates on WhatsApp. The information the team supplied became user stories, the stories became prioritised backlog items, and the backlog became a one-week sprint with a clear goal and a demo on 16 October. The logbook then recorded the sprint day by day, and my commit history gives every entry a date. Together they showed me that even a one-developer project needs shared agreements, a visible list of work and a regular record, and that what slipped, the contact form and deployment, was exactly what I had not given enough buffer in the plan.
 
 ## References
 

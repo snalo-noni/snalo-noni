@@ -67,4 +67,11 @@ A task is done when:
 
 ## 8. Evidence Alignment
 
-TODO – list two or three charter agreements and the evidence above that shows the team followed them. If no written charter existed at the time, say so honestly here and in your reflection.
+No written charter document existed at the start of the sprint. The agreements on this page were set at the 2 October 2026 stand-up and in how the team worked, and I have written them down in this portfolio afterwards. The evidence below shows that the team kept to them.
+
+| Agreement | Evidence it was followed |
+|---|---|
+| Stand-ups on Monday, Wednesday and Friday | The Read AI action items from the 2 October stand-up ([sprint kick-off evidence](../04-sprint-backlog/evidence.md#sprint-kick-off-evidence)) and the recap of the 26 October stand-up ([stand-up recap evidence](../05-agile-logbook/evidence.md#3-stand-up-recap-evidence)) |
+| Updates and communication on WhatsApp | The conversation of 9 October 2026 with Agreement Lethube (Figure 1 above) |
+| All work committed to GitHub | The dated commit history for 9 to 16 October 2026 ([development log](../05-agile-logbook/evidence.md#2-development-log-from-github)) |
+| The Product Owner sees the work at the demo | The demo on 16 October, with deployment waiting until the Product Owner was available ([sprint outcome](../04-sprint-backlog/evidence.md#sprint-outcome)) |
