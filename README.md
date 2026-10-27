@@ -9,9 +9,7 @@ A portfolio of Agile evidence and reflections for **Project Presentation 3 (PRP3
 - **Name and Surname:** Snalo Noni
 - **Student Number:** 230541844
 - **Institution:** Cape Peninsula University of Technology
-- **Course:** Diploma in Information and Communication Technology
 - **Module:** Project Presentation 3
-- **Module Code:** PRP372S
 
 ## Project Overview
 
