@@ -8,8 +8,6 @@ An agile logbook records daily stand-ups, sprint plans and retrospective notes a
 
 - [Logbook: 9 – 16 October 2026](../assets/logbooks/logbook-9-16-october-2026.md) – taskboard, walkthrough, daily stand-ups and retrospective
 
-> **TODO (delete this note):** If you completed the weekly logbook documents for the course (Word files), upload them to `assets/logbooks/` and link each one here as well. Add one line per reporting period.
-
 ## 2. Development Log from GitHub
 
 Repository: [snalo-noni/soluon-website-](https://github.com/snalo-noni/soluon-website-)
@@ -33,8 +31,6 @@ Repository: [snalo-noni/soluon-website-](https://github.com/snalo-noni/soluon-we
 | 16 Oct 2026 | [59aa6bb](https://github.com/snalo-noni/soluon-website-/commit/59aa6bb), [fbd0547](https://github.com/snalo-noni/soluon-website-/commit/fbd0547), [7da3965](https://github.com/snalo-noni/soluon-website-/commit/7da3965) | Upload new team photo, delete the old photo, point the page to the new photo |
 | 16 Oct 2026 | [ac126f3](https://github.com/snalo-noni/soluon-website-/commit/ac126f3) | Add Agreement Lethube to team section |
 | 16 Oct 2026 | [f6abce4](https://github.com/snalo-noni/soluon-website-/commit/f6abce4) | Ignore IDE and firmware project folders |
-
-> **TODO (delete this note):** Add a second screenshot that shows the 9 October commits and the repository name at the top of the page.
 
 **Evidence shown:** The commit history is a dated, independent record of the development work from 9 to 16 October 2026.
 

@@ -10,8 +10,6 @@ An Agile team charter is a living, co-created social contract that defines a tea
 
 **Shared purpose:** Give Soluon a public website that clearly explains what the company builds, who it serves and how to get in touch.
 
-> **TODO (delete this note):** Reword the purpose so it matches what your team actually agreed.
-
 ## 2. Team Members and Roles
 
 | Name | Role | Responsibilities |
@@ -34,10 +32,10 @@ The stand-up of 2 October 2026 recorded the actions that fixed these roles, incl
 
 | Area | Agreement |
 |---|---|
-| Communication channel | A WhatsApp group for updates and communication, and direct WhatsApp messages with Agreement Lethube (see Figure 1). TODO – how fast you agreed to reply |
-| Meetings | Stand-ups on Monday, Wednesday and Friday for updates and communication, held on Google Meet. TODO – add sprint review and retrospective if you held them |
+| Communication channel | A WhatsApp group for updates and communication, and direct WhatsApp messages with Agreement Lethube (see Figure 1). |
+| Meetings | Stand-ups on Monday, Wednesday and Friday for updates and communication, held on Google Meet. |
 | Workflow | No Trello board was used on this project. Work was tracked through the stand-ups. |
-| Version control | All work was committed to GitHub. See the commit history in the [logbook evidence](../05-agile-logbook/evidence.md). TODO – add any rule you followed, for example who may push to `main` |
+| Version control | All work was committed to GitHub. See the commit history in the [logbook evidence](../05-agile-logbook/evidence.md). |
 | Decision making | The Product Owner was shown the work at the demo. When he was unavailable on the day of the demo, deployment waited until the following Monday. |
 
 ## 5. Definition of Done
@@ -51,8 +49,7 @@ A task is done when:
 
 ## 6. Operational Boundaries
 
-- **Availability:** TODO
-- **Scope limits:** TODO
+- **Availability:** Stand-ups on Monday, Wednesday and Friday. Time outside the stand-ups was limited by school projects and a hackathon.
 - **Conflict resolution:** Issues were raised at the stand-ups, and Shaun decided as Product Owner.
 
 ## 7. Supporting Evidence
@@ -67,7 +64,6 @@ A task is done when:
 
 **Evidence shown:** The messages record a progress check from Agreement Lethube, a link to the working website, and my note that one feature (the messenger) was still being fixed. She asks me to keep updating her.
 
-> **TODO (delete this note):** Add any other evidence that the team agreed and followed its rules, such as the written charter, a team chat or a Trello board. Save each image in `assets/agile-team-charter/` and add it in the same way as Figure 1.
 
 ## 8. Evidence Alignment
 

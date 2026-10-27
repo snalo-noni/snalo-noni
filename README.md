@@ -2,16 +2,16 @@
 
 ## Soluon Website
 
-A portfolio of Agile evidence and reflections for **Project Presentation 3 (PRP370S)**.
+A portfolio of Agile evidence and reflections for **Project Presentation 3 (PRP372S)**.
 
 ## Student Details
 
 - **Name and Surname:** Snalo Noni
 - **Student Number:** 230541844
 - **Institution:** Cape Peninsula University of Technology
-- **Course:** Diploma in Information and Communication Technology <!-- TODO: confirm the exact qualification name on your registration -->
+- **Course:** Diploma in Information and Communication Technology
 - **Module:** Project Presentation 3
-- **Module Code:** PRP370S / PRP371S / PRP372S
+- **Module Code:** PRP372S
 
 ## Project Overview
 
@@ -20,8 +20,6 @@ This portfolio documents the development of the **Soluon Website** between 9 and
 Soluon is a South African infrastructure-technology company, founded in 2024, that builds resilient energy and water systems on a common platform called NODE. Its tagline is "Infrastructure for Resilient Living – from one home to one community" (Soluon, 2026).
 
 The Soluon Website is a single-page company website. It presents the company's mission, the problem it addresses, its approach, what it builds, who it serves, its principles and its team, and it gives visitors a contact form for general, partnership and rural-dealer enquiries.
-
-<!-- TODO (delete this note): add one sentence on your own role in the project, for example "I was the developer responsible for ...", and anything else you can truthfully claim. -->
 
 <p align="left">
   <a href="assets/project-overview/soluon_homepage.png"><img src="assets/project-overview/soluon_homepage.png" alt="Soluon website homepage" width="100%"></a>
@@ -39,21 +37,17 @@ The Soluon Website is a single-page company website. It presents the company's m
 
 ### Contact Form
 
-- **Vercel, FormSubmit and others** — Services I tried to send visitors' messages to the linked email. <!-- TODO: name the other services you tried and say which one you kept -->
+- **Vercel, FormSubmit and others** — Services I tried to send visitors' messages to the linked email.
 
 ### Version Control
 
 - <img src="assets/icons/technology/github.svg" width="24" height="24" alt="GitHub logo"> **GitHub** — Stores the source code and records the dated project history.
 
-<!-- TODO (delete this note): add anything else you actually used, for example Trello, Figma, a form service or hosting. -->
-
 <sub>Technology logos sourced from [Devicon](https://devicon.dev/).</sub>
 
 ## Project Links
 
-- **Source Code:** [Soluon Website on GitHub](https://github.com/snalo-noni/soluon-website-) <!-- TODO: confirm this is the repository your commit links point to; the evidence pages currently use github.com/snalo-noni/soluon-website- -->
-- **Live Website:** TODO – paste the live Soluon website link, or delete this line if there is none
-- **Project Board:** TODO – paste your public Trello board link
+- **Source Code:** [Soluon Website on GitHub](https://github.com/snalo-noni/soluon-website-)
 
 ## Portfolio Sections
 

@@ -2,16 +2,14 @@
 
 **Name:** Snalo Noni | **Student number:** 230541844 | **Project:** Soluon Website
 
-> **TODO (delete this note):** The "completed" answers below are taken from your GitHub commits for those days. Check them, and add the plans, impediments, taskboard and walkthrough answers from your own memory and notes. Do not invent anything. If you have no record for a day, delete that day.
-
 ## Taskboard
 
 | Product Backlog | In Progress | Completed |
 |---|---|---|
 | Deploy the website after the demo | Contact form sending messages to the linked email | Initial site built and published to GitHub (9 Oct) |
-| TODO | TODO | Contact form built and sent to a test inbox (9 Oct) |
-| TODO | TODO | Contact form updated and pages rebuilt (12 Oct) |
-| TODO | TODO | Team section updated with photos and profiles (16 Oct) |
+| – | – | Contact form built and sent to a test inbox (9 Oct) |
+| – | – | Contact form updated and pages rebuilt (12 Oct) |
+| – | – | Team section updated with photos and profiles (16 Oct) |
 
 ## Walkthrough
 
@@ -20,7 +18,7 @@
 | 1 | What do we need to do to advance this piece of work? | Make the contact form send visitors' messages to the linked email reliably, then deploy the website. |
 | 2 | Is anyone working on anything that is not on the board? | There was no taskboard. I was the only developer on the website. |
 | 3 | What do we need to finish as a team? | Show the demo and deploy the website on the following Monday. |
-| 4 | Are there any bottlenecks or blockers to the flow of work? | Limited time, because the website had to be fitted around my school project and presentation preparation (2nd week of October). The hackathon app had to be built at two days' notice, alongside my assigned issues (3rd week). See the [weekly record](../05-agile-logbook/evidence.md#4-weekly-record). |
+| 4 | Are there any bottlenecks or blockers to the flow of work? | Limited time, because the website had to be fitted around my school project and presentation preparation (2nd week of October). The hackathon app had to be built at two days' notice, alongside my assigned issues (3rd week). See the [weekly record](../../05-agile-logbook/evidence.md#4-weekly-record). |
 
 ## Logbook
 
@@ -53,7 +51,7 @@
 - **Date:** 2 October 2026 (stand-up where the website work was assigned)
 - **Sprint goal:** Publish the Soluon company website with all core sections, a working contact form and the team section.
 - **Items committed:** I would develop the website. Agreement Lethube would send me the information needed for the website. Team members would send her a short website profile and picture.
-- **Notes:** The final demo was set for the 16th. See the [sprint kick-off evidence](../04-sprint-backlog/evidence.md#sprint-kick-off-evidence).
+- **Notes:** The final demo was set for the 16th. See the [sprint kick-off evidence](../../04-sprint-backlog/evidence.md#sprint-kick-off-evidence).
 
 ## Sprint Review
 
