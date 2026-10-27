@@ -37,6 +37,10 @@ The Soluon Website is a single-page company website. It presents the company's m
 - <img src="assets/icons/technology/css3.svg" width="24" height="24" alt="CSS3 logo"> **CSS** — Styles the layout and makes the site responsive on phones and larger screens.
 - <img src="assets/icons/technology/javascript.svg" width="24" height="24" alt="JavaScript logo"> **JavaScript** — Powers the mobile menu, the principles carousel and the page interactions.
 
+### Contact Form
+
+- **Vercel, FormSubmit and others** — Services I tried to send visitors' messages to the linked email. <!-- TODO: name the other services you tried and say which one you kept -->
+
 ### Version Control
 
 - <img src="assets/icons/technology/github.svg" width="24" height="24" alt="GitHub logo"> **GitHub** — Stores the source code and records the dated project history.

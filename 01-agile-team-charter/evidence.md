@@ -18,9 +18,7 @@ An Agile team charter is a living, co-created social contract that defines a tea
 |---|---|---|
 | Snalo Noni | Sole designer and developer | Designed, built, tested and updated the website. See the [logbook](../05-agile-logbook/evidence.md) for the dated commits. |
 | Agreement Lethube | Personal Assistant to Shaun | Supplied the information the team wanted on the website, and received my progress updates. |
-| Shaun | TODO – your role on the project, for example client or product owner | TODO |
-
-> **TODO (delete this note):** Confirm Shaun's role and whether other team members supplied profiles or content, then add them to the table.
+| Shaun | Product Owner | Owned the vision for the website. Approval of the demo and deployment waited for him (see the [sprint backlog](../04-sprint-backlog/evidence.md)). |
 
 The stand-up of 2 October 2026 recorded the actions that fixed these roles, including "Snalo will develop the website" and that Agreement would send the information needed for the site. See the [sprint kick-off evidence](../04-sprint-backlog/evidence.md#sprint-kick-off-evidence).
 
@@ -39,9 +37,9 @@ The stand-up of 2 October 2026 recorded the actions that fixed these roles, incl
 |---|---|
 | Communication channel | A WhatsApp group for updates and communication, and direct WhatsApp messages with Agreement Lethube (see Figure 1). TODO – how fast you agreed to reply |
 | Meetings | Stand-ups on Monday, Wednesday and Friday for updates and communication, held on Google Meet. TODO – add sprint review and retrospective if you held them |
-| Workflow | No Trello board was used on this project. TODO – say how you tracked your tasks instead |
+| Workflow | No Trello board was used on this project. Work was tracked through the stand-ups. |
 | Version control | All work was committed to GitHub. See the commit history in the [logbook evidence](../05-agile-logbook/evidence.md). TODO – add any rule you followed, for example who may push to `main` |
-| Decision making | TODO – for example discuss first, then the Product Owner decides |
+| Decision making | The Product Owner was shown the work at the demo. When he was unavailable on the day of the demo, deployment waited until the following Monday. |
 
 ## 5. Definition of Done
 

@@ -12,7 +12,7 @@ A sprint backlog is a real-time, actionable plan created by and for the develope
 |---|---|
 | Sprint dates | 9 October 2026 to 16 October 2026 |
 | Sprint goal | Publish the Soluon company website with all core sections, a working contact form and the team section. |
-| Team capacity | TODO – for example number of members and hours per week |
+| Team capacity | One developer (me). The website took about three days. TODO – add hours per day if you know them |
 
 ### Sprint Backlog Items
 
@@ -24,7 +24,8 @@ A sprint backlog is a real-time, actionable plan created by and for the develope
 | PB-08 | Rebuild the pages and restore the site page with the updated form | Snalo Noni | TODO | Done | 12 Oct | [9a3c8d1](https://github.com/snalo-noni/soluon-website-/commit/9a3c8d1), [abe64fa](https://github.com/snalo-noni/soluon-website-/commit/abe64fa) |
 | PB-06, PB-09 | Update Emmanuel's profile and photo, and update the form email | Snalo Noni | TODO | Done | 16 Oct | [f5d0119](https://github.com/snalo-noni/soluon-website-/commit/f5d0119), [7da3965](https://github.com/snalo-noni/soluon-website-/commit/7da3965) |
 | PB-06, PB-09 | Add Agreement Lethube to the team section | Snalo Noni | TODO | Done | 16 Oct | [ac126f3](https://github.com/snalo-noni/soluon-website-/commit/ac126f3) |
-| TODO | TODO – tasks done by other team members | TODO | TODO | TODO | TODO | TODO |
+| PB-04 | Try form services (Vercel, FormSubmit and others) to send visitors' messages to the linked email | Snalo Noni | TODO | Not working reliably | – | TODO |
+| PB-10 | Deploy the website after the demo | Snalo Noni | TODO | Planned for Monday 19 Oct | – | – |
 
 ### Sprint Kick-off Evidence
 
@@ -38,9 +39,9 @@ A sprint backlog is a real-time, actionable plan created by and for the develope
 
 ### Sprint Outcome
 
-- **Planned items:** TODO
-- **Completed:** TODO
-- **Carried over:** TODO
+- **Planned items:** The website, ready for the demo on 16 October.
+- **Completed:** The website was built in about three days and shown at the demo on 16 October. The other members loved it.
+- **Carried over:** Deployment, which was set for the following Monday (19 October) because the Product Owner was unavailable on the day of the demo, and reliable delivery of contact-form messages to the linked email.
 
 ### Sprint Board Screenshot
 
@@ -58,4 +59,4 @@ A sprint backlog is a real-time, actionable plan created by and for the develope
 
 | Went well | Did not go well | Action for the next sprint |
 |---|---|---|
-| TODO | TODO | TODO |
+| Everything went well on my side. The other members loved the demo. | The company did not own a domain, so I had to wait before deploying. The contact form did not send messages to the linked email reliably. I was also busy with a hackathon and school projects. | TODO |

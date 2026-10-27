@@ -111,6 +111,7 @@ A user story is a short description of a feature written from the end-user's per
 - Send the form to a test inbox.
 - Update the contact form.
 - Update the form email address.
+- Try form services (Vercel, FormSubmit and others) to send visitors' messages to the linked email.
 
 ### 6.3 Evidence
 

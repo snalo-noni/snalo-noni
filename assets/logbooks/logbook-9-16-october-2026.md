@@ -8,7 +8,7 @@
 
 | Product Backlog | In Progress | Completed |
 |---|---|---|
-| TODO | TODO | Initial site built and published to GitHub (9 Oct) |
+| Deploy the website after the demo | Contact form sending messages to the linked email | Initial site built and published to GitHub (9 Oct) |
 | TODO | TODO | Contact form built and sent to a test inbox (9 Oct) |
 | TODO | TODO | Contact form updated and pages rebuilt (12 Oct) |
 | TODO | TODO | Team section updated with photos and profiles (16 Oct) |
@@ -17,9 +17,9 @@
 
 | No. | Question | Response |
 |---:|---|---|
-| 1 | What do we need to do to advance this piece of work? | TODO |
-| 2 | Is anyone working on anything that is not on the board? | TODO |
-| 3 | What do we need to finish as a team? | TODO |
+| 1 | What do we need to do to advance this piece of work? | Make the contact form send visitors' messages to the linked email reliably, then deploy the website. |
+| 2 | Is anyone working on anything that is not on the board? | There was no taskboard. I was the only developer on the website. |
+| 3 | What do we need to finish as a team? | Show the demo and deploy the website on the following Monday. |
 | 4 | Are there any bottlenecks or blockers to the flow of work? | Limited time, because the website had to be fitted around my school project and presentation preparation (2nd week of October). The hackathon app had to be built at two days' notice, alongside my assigned issues (3rd week). See the [weekly record](../05-agile-logbook/evidence.md#4-weekly-record). |
 
 ## Logbook
@@ -29,24 +29,24 @@
 | Day | No. | Stand-up question | Response |
 |---|---:|---|---|
 | Friday | 1 | What did I complete since the last stand-up? | Added the Soluon company website to the repository, removed the IDE folder and sent the contact form to a test inbox. |
-|  | 2 | What am I planning to complete between now and the next stand-up? | TODO |
-|  | 3 | What are my impediments (or risks or problems)? | TODO |
+|  | 2 | What am I planning to complete between now and the next stand-up? | Continue development of the website, and test and polish it (from my weekly record). |
+|  | 3 | What are my impediments (or risks or problems)? | Limited time, because I was also busy with school projects and preparing for a hackathon. |
 
 ### Date: 12 October 2026
 
 | Day | No. | Stand-up question | Response |
 |---|---:|---|---|
 | Monday | 1 | What did I complete since the last stand-up? | Updated the contact form, rebuilt the pages and restored the site page with the updated form. |
-|  | 2 | What am I planning to complete between now and the next stand-up? | TODO |
-|  | 3 | What are my impediments (or risks or problems)? | TODO – why were the pages rebuilt? |
+|  | 2 | What am I planning to complete between now and the next stand-up? | Continue development of the website (from my weekly record). |
+|  | 3 | What are my impediments (or risks or problems)? | Limited time, because I was also busy with school projects and preparing for a hackathon. |
 
 ### Date: 16 October 2026
 
 | Day | No. | Stand-up question | Response |
 |---|---:|---|---|
 | Friday | 1 | What did I complete since the last stand-up? | Updated Emmanuel's profile, photo and the form email, added Agreement Lethube to the team section, and ignored the IDE and firmware folders. |
-|  | 2 | What am I planning to complete between now and the next stand-up? | TODO |
-|  | 3 | What are my impediments (or risks or problems)? | TODO |
+|  | 2 | What am I planning to complete between now and the next stand-up? | Deploy the website on the following Monday, after the demo. |
+|  | 3 | What are my impediments (or risks or problems)? | Limited time, because I was also busy with school projects and preparing for a hackathon. |
 
 ## Sprint Planning
 
@@ -57,12 +57,12 @@
 
 ## Sprint Review
 
-- **Date:** TODO
-- **What was demonstrated:** TODO
-- **Feedback received:** TODO
+- **Date:** 16 October 2026
+- **What was demonstrated:** The Soluon website.
+- **Feedback received:** The other members loved it. The Product Owner was unavailable on the day of the demo, so I was told to deploy the website on the following Monday.
 
 ## Sprint Retrospective
 
 | Went well | Did not go well | Action for the next sprint |
 |---|---|---|
-| TODO | TODO | TODO |
+| Everything went well on my side. The other members loved the demo. | The company did not own a domain, so I had to wait before deploying. The contact form did not send messages to the linked email reliably. | TODO |
