@@ -12,7 +12,7 @@ My job was to translate those raw team inputs into user-centric user stories and
 
 ## Action
 
-I structured the stories around user goals and broke them into frontend and integration tasks. At first I made them too broad, so I had to refine the acceptance criteria to keep each story's scope deliverable. I did not use a Trello board, so I tracked the stories through the stand-ups and the GitHub commits instead.
+I structured the stories around user goals and broke them into frontend and integration tasks. At first I made them too broad, so I had to refine the acceptance criteria to keep each story's scope deliverable. During the sprint I did not use a Trello board, so I tracked the stories through the stand-ups and the GitHub commits. I reconstructed a board afterwards from the commit history.
 
 ## Result
 

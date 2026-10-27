@@ -41,6 +41,10 @@ A sprint backlog is a real-time, actionable plan created by and for the develope
 - **Completed:** The website was built in about three days and shown at the demo on 16 October. The other members loved it.
 - **Carried over:** Deployment, which was set for the following Monday (19 October) because the Product Owner was unavailable on the day of the demo, and reliable delivery of contact-form messages to the linked email.
 
+### Sprint Board
+
+Sprint work was tracked through the stand-ups and WhatsApp. A Trello board reconstructed from the GitHub commit history after the sprint is shown in the [board screenshot](../02-user-stories-and-tasks/evidence.md#8-trello-board) and at the [Trello board](https://trello.com/b/n2pSLMkp).
+
 ### Sprint Retrospective
 
 | Went well | Did not go well | Action for the next sprint |

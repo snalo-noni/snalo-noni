@@ -30,3 +30,7 @@ I put the information the team supplied and the Product Owner's needs first.
 |---|---|---|
 | 12 Oct 2026 | Pages rebuilt and the site page restored with the updated form ([9a3c8d1](https://github.com/snalo-noni/soluon-website-/commit/9a3c8d1), [abe64fa](https://github.com/snalo-noni/soluon-website-/commit/abe64fa)) | Something broke on the site, so I restored the page from GitHub's history (see the reflection) |
 | 16 Oct 2026 | Team profiles and photos updated ([f5d0119](https://github.com/snalo-noni/soluon-website-/commit/f5d0119), [ac126f3](https://github.com/snalo-noni/soluon-website-/commit/ac126f3)) | The team supplied their profiles and photos, as agreed at the 2 October stand-up |
+
+## 4. Board View
+
+A Trello board reconstructed from the GitHub commit history after the sprint shows these items as cards. See the [board screenshot](../02-user-stories-and-tasks/evidence.md#8-trello-board) or open the [Trello board](https://trello.com/b/n2pSLMkp).

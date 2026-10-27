@@ -6,6 +6,8 @@ A user story is a short description of a feature written from the end-user's per
 
 **Source of the requirements:** The Soluon team gave me the information they wanted on the website, and I wrote the stories below from it.
 
+**Project board:** [Soluon Website on Trello](https://trello.com/b/n2pSLMkp), reconstructed from the GitHub commit history after the sprint. During the sprint, work was tracked through the stand-ups and WhatsApp.
+
 ## 1. Understanding Soluon
 
 ### 1.1 User Story
@@ -117,3 +119,13 @@ A user story is a short description of a feature written from the end-user's per
 ### 7.3 Evidence
 
 - Commit: [Add Soluon company website (00fc9d5)](https://github.com/snalo-noni/soluon-website-/commit/00fc9d5)
+
+## 8. Trello Board
+
+<p align="left">
+  <a href="../assets/user-stories/trello-board.png"><img src="../assets/user-stories/trello-board.png" alt="Trello board for the Soluon website with To Do, Doing and Done lists" width="480"></a>
+</p>
+
+<p align="left"><sub><strong>Figure 1.</strong> Trello board for the Soluon website, reconstructed from the GitHub commit history after the sprint. Select the image to view it at full size.</sub></p>
+
+**Evidence shown:** The board lists the work in To Do, Doing and Done, with the completed items matching the commits on 9, 12 and 16 October 2026. It records the same work as the stand-ups and commit history but was not used to run the sprint.

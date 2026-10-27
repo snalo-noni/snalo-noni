@@ -34,7 +34,7 @@ The stand-up of 2 October 2026 recorded the actions that fixed these roles, incl
 |---|---|
 | Communication channel | A WhatsApp group for updates and communication, and direct WhatsApp messages with Agreement Lethube (see Figure 1). |
 | Meetings | Stand-ups on Monday, Wednesday and Friday for updates and communication, held on Google Meet. |
-| Workflow | No Trello board was used on this project. Work was tracked through the stand-ups. |
+| Workflow | During the sprint, work was tracked through the stand-ups and WhatsApp. A Trello board was reconstructed afterwards from the GitHub commit history (see the [user stories evidence](../02-user-stories-and-tasks/evidence.md#8-trello-board)). |
 | Version control | All work was committed to GitHub. See the commit history in the [logbook evidence](../05-agile-logbook/evidence.md). |
 | Decision making | The Product Owner was shown the work at the demo. When he was unavailable on the day of the demo, deployment waited until the following Monday. |
 
