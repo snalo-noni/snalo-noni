@@ -26,10 +26,9 @@ The stand-up of 2 October 2026 recorded the actions that fixed these roles, incl
 
 | Value | What it looks like in practice |
 |---|---|
-| Respect | TODO |
-| Communication | TODO |
-| Accountability | TODO |
-| Continuous improvement | TODO |
+| Communication | I gave Agreement and the team updates at the Monday, Wednesday and Friday stand-ups and on WhatsApp. |
+| Accountability | I took ownership of building the whole website, and told the team when something (the contact form) was not working. |
+| Continuous improvement | I kept improving the site: I updated the contact form, rebuilt pages and updated the team section. |
 
 ## 4. Working Agreements
 
@@ -45,15 +44,16 @@ The stand-up of 2 October 2026 recorded the actions that fixed these roles, incl
 
 A task is done when:
 
-- TODO – for example the work is coded and checked in the browser
-- TODO – for example the change is committed to GitHub
-- TODO – for example the Product Owner has seen it
+- the change is coded and checked in the browser,
+- the change is checked on a phone screen,
+- the change is committed to GitHub, and
+- the work has been shown to the team or Product Owner at a stand-up or the demo.
 
 ## 6. Operational Boundaries
 
 - **Availability:** TODO
 - **Scope limits:** TODO
-- **Conflict resolution:** TODO
+- **Conflict resolution:** Issues were raised at the stand-ups, and Shaun decided as Product Owner.
 
 ## 7. Supporting Evidence
 
