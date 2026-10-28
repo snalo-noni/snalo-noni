@@ -49,7 +49,7 @@ A task is done when:
 
 ## 6. Operational Boundaries
 
-- **Availability:** Stand-ups on Monday, Wednesday and Friday. Time outside the stand-ups was limited by school projects and a hackathon.
+- **Availability:** Stand-ups on Monday, Wednesday and Friday. Time outside the stand-ups was limited by school projects and a hackathon we attended to represent Soluon.
 - **Conflict resolution:** Issues were raised at the stand-ups, and Shaun decided as Product Owner.
 
 ## 7. Supporting Evidence

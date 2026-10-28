@@ -4,7 +4,7 @@
 
 ## Situation
 
-The sprint goal was to publish the Soluon website with its core sections, a working contact form and the team section, ready for the demo on 16 October. I was working on it alongside school projects and a hackathon.
+The sprint goal was to publish the Soluon website with its core sections, a working contact form and the team section, ready for the demo on 16 October. I was working on it alongside school projects and a hackathon we attended to represent Soluon.
 
 ## Task
 

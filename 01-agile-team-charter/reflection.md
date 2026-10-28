@@ -4,7 +4,7 @@
 
 ## Situation
 
-I was the only developer on the Soluon website. I worked with Shaun as Product Owner and Agreement as my contact, while also handling school projects and a hackathon.
+I was the only developer on the Soluon website. I worked with Shaun as Product Owner and Agreement as my contact, while also handling school projects and a hackathon we attended to represent Soluon.
 
 ## Task
 

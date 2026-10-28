@@ -18,7 +18,7 @@
 | 1 | What do we need to do to advance this piece of work? | Make the contact form send visitors' messages to the linked email reliably, then deploy the website. |
 | 2 | Is anyone working on anything that is not on the board? | There was no taskboard. I was the only developer on the website. |
 | 3 | What do we need to finish as a team? | Show the demo and deploy the website on the following Monday. |
-| 4 | Are there any bottlenecks or blockers to the flow of work? | Limited time, because the website had to be fitted around my school project and presentation preparation (2nd week of October). The hackathon app had to be built at two days' notice, alongside my assigned issues (3rd week). See the [weekly record](../../05-agile-logbook/evidence.md#4-weekly-record). |
+| 4 | Are there any bottlenecks or blockers to the flow of work? | Limited time, because the website had to be fitted around my school project and presentation preparation (2nd week of October). The hackathon app, built for an event we attended to represent Soluon, had to be built at two days' notice, alongside my assigned issues (3rd week). See the [weekly record](../../05-agile-logbook/evidence.md#4-weekly-record). |
 
 ## Logbook
 
@@ -28,7 +28,7 @@
 |---|---:|---|---|
 | Friday | 1 | What did I complete since the last stand-up? | Added the Soluon company website to the repository, removed the IDE folder and sent the contact form to a test inbox. |
 |  | 2 | What am I planning to complete between now and the next stand-up? | Continue development of the website, and test and polish it (from my weekly record). |
-|  | 3 | What are my impediments (or risks or problems)? | Limited time, because I was also busy with school projects and preparing for a hackathon. |
+|  | 3 | What are my impediments (or risks or problems)? | Limited time, because I was also busy with school projects and preparing for a hackathon we attended to represent Soluon. |
 
 ### Date: 12 October 2026
 
@@ -36,7 +36,7 @@
 |---|---:|---|---|
 | Monday | 1 | What did I complete since the last stand-up? | Updated the contact form, rebuilt the pages and restored the site page with the updated form. |
 |  | 2 | What am I planning to complete between now and the next stand-up? | Continue development of the website (from my weekly record). |
-|  | 3 | What are my impediments (or risks or problems)? | Limited time, because I was also busy with school projects and preparing for a hackathon. |
+|  | 3 | What are my impediments (or risks or problems)? | Limited time, because I was also busy with school projects and preparing for the hackathon. |
 
 ### Date: 16 October 2026
 
@@ -44,7 +44,7 @@
 |---|---:|---|---|
 | Friday | 1 | What did I complete since the last stand-up? | Updated Emmanuel's profile, photo and the form email, added Agreement Lethube to the team section, and ignored the IDE and firmware folders. |
 |  | 2 | What am I planning to complete between now and the next stand-up? | Deploy the website on the following Monday, after the demo. |
-|  | 3 | What are my impediments (or risks or problems)? | Limited time, because I was also busy with school projects and preparing for a hackathon. |
+|  | 3 | What are my impediments (or risks or problems)? | Limited time, because I was also busy with school projects and preparing for the hackathon. |
 
 ## Sprint Planning
 

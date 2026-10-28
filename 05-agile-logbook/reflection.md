@@ -4,7 +4,7 @@
 
 ## Situation
 
-This logbook covers the Soluon Website sprint from 9 to 16 October 2026. I was the only developer, and I was building the site alongside school projects and a hackathon, so my time was limited throughout the sprint.
+This logbook covers the Soluon Website sprint from 9 to 16 October 2026. I was the only developer, and I was building the site alongside school projects and a hackathon we attended to represent Soluon, so my time was limited throughout the sprint.
 
 ## Task
 

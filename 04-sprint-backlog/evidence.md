@@ -49,4 +49,4 @@ Sprint work was tracked through the stand-ups and WhatsApp. A Trello board recon
 
 | Went well | Did not go well | Action for the next sprint |
 |---|---|---|
-| Everything went well on my side. The other members loved the demo. | The company did not own a domain, so I had to wait before deploying. The contact form did not send messages to the linked email reliably. I was also busy with a hackathon and school projects. | Leave more buffer time for the contact form and deployment. |
+| Everything went well on my side. The other members loved the demo. | The company did not own a domain, so I had to wait before deploying. The contact form did not send messages to the linked email reliably. I was also busy with school projects and a hackathon we attended to represent Soluon. | Leave more buffer time for the contact form and deployment. |

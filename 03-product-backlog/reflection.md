@@ -4,7 +4,7 @@
 
 ## Situation
 
-The Soluon website needed its content sections (about, the problem, the approach, what Soluon builds, who it serves and its principles), a team section and a contact form. With limited time around school projects and a hackathon, the work had to be put in a sensible order.
+The Soluon website needed its content sections (about, the problem, the approach, what Soluon builds, who it serves and its principles), a team section and a contact form. With limited time around school projects and a hackathon we attended to represent Soluon, the work had to be put in a sensible order.
 
 ## Task
 
