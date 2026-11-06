@@ -16,7 +16,7 @@
 | No. | Question | Response |
 |---:|---|---|
 | 1 | What do we need to do to advance this piece of work? | Make the contact form send visitors' messages to the linked email reliably, then deploy the website. |
-| 2 | Is anyone working on anything that is not on the board? | There was no taskboard. I was the only developer on the website. |
+| 2 | Is anyone working on anything that is not on the board? | No, I was the only developer on the website. |
 | 3 | What do we need to finish as a team? | Show the demo and deploy the website on the following Monday. |
 | 4 | Are there any bottlenecks or blockers to the flow of work? | Limited time, because the website had to be fitted around my school project and presentation preparation (2nd week of October). The hackathon app, built for an event we attended to represent Soluon, had to be built at two days' notice, alongside my assigned issues (3rd week). See the [weekly record](../../05-agile-logbook/evidence.md#4-weekly-record). |
 
